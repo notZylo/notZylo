@@ -38,5 +38,4 @@ I have 5+ years of programming experience, and about 2 years of Java experience
 
 ## Contact
 - Zylo#8404 on Discord
-- <a href="mailto:arcticreselles@yahoo.com">arcticreselles@yahoo.com</a> (business inquiries only please)
 

@@ -1,0 +1,4 @@
+title=<b style="color:#FF668C;">Array to JSON</b>
+description=<b style="color:#FF668C;">Fetches</b> the content inside a
+<br><b style="color:#FF668C;">folder</b> and sets it in a JSON Object<br>which can be
+manipulated after.

@@ -1,0 +1,6 @@
+title=<b style="color:#FF668C;">Acolium</b>
+description=Acolium is a <b style="color:#FF668C;">futuristic RPG Discord bot
+<br></b> designed by <b style="color:#FF668C;">Jerson.EXE#9864</b>
+and
+<br><b style="color:#FF668C;">programmed by me</b>, with over
+<br><b style="color:#FF668C;">10 commands</b> and <b style="color:#FF668C;">30+ items</b>.

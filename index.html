@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Face Dev</title>
+
+    <meta name="theme-color" content="#FF3366">
+    <meta property="og:image" content="/assets/avatar.png">
+    <meta property="og:url" content="https://facedev.xyz">
+    <meta property="og:title" content="Face Dev">
+    <meta property="og:description" content="The collection of my creations, documented in more detail.">
+    <link rel=icon href="https://cdn.discordapp.com/attachments/934187934167490570/968948574912143420/avatar.png"
+        type="image/png">
+
+    <link rel="stylesheet" href="/static/css/main.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v6.0.0-beta2/css/all.css">
+
+</head>
+
+<body>
+    <div id="mySidenav" class="sidenav">
+        <a style='cursor:default;' href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    </div>
+
+
+
+    <div id='main'>
+        <div class="navbar padding mt-2">
+
+            <img width="40" class="logo" draggable="false" style='border-radius:20px' src="/assets/avatar.png">
+            <div class="ct padding mt-3 mb-4">
+                <div class="footer">
+                    <span style="float: right; font-size: 18px;">
+                        <i id="discord" class="fab fa-discord mr-3 text-gray-500"></i>
+                        <i id="github" class="fab fa-github mr-3 text-gray-500"></i>
+                        <i id="paypal" class="fab fa-paypal text-gray-500"></i>
+                        <i id="youtube" class="fab fa-youtube text-gray-500"></i>
+                    </span>
+                </div>
+            </div>
+            <span class="name">Face</span>
+        </div>
+        <div class="header padding">
+            <br></br>
+            <p class='hello' style="font-size: 90px;font-weight: 700; text-align: center;">I'm <span
+                    style="color:#FF3366;">Face</span>!</p>
+
+            <p class="xd" style="font-size: 18px; text-align: center;">
+                a <b id="life" style="font-size: 25px; color:#FF3366;">NodeJS developer</b>.
+                <br><br>
+                Contact: <b id="life" style="color:#FF3366;">Face#0981</b> on Discord;<br>
+            </p>
+
+        </div>
+
+        <pre id="contents"></pre>
+
+
+        <div id="parent">
+            <div id="showcase">
+                <!-- <div onclick="openNav('productfilter')" data-item="nodejs" id='productfilter'><img
+                        src="/assets/productfilter.png"></div> -->
+            </div>
+
+            <div class="container">
+                <p class='hello' style="font-size: 50px;font-weight: 700; text-align: center; margin-top: 49px;">
+                    Showcase
+
+                <ul class="filter-menu">
+                    <div data-target="all" class="neon-button">All</div>&nbsp;&nbsp;&nbsp;
+                    <div data-target="db" class="neon-button">Discord bots</div>&nbsp;&nbsp;&nbsp;
+                    <div data-target="nodejs" class="neon-button">NodeJS projects</div>&nbsp;&nbsp;&nbsp;
+                    <div data-target="web" class="neon-button">Websites</div>&nbsp;&nbsp;&nbsp;
+                </ul>
+
+                <ul class="filter-item" id='items'>
+
+                    <div onclick="openNav('versechaining')" data-item="db" id='versechaining'><img
+                            src="/assets/versechaining.png"></div>
+                    <div onclick="openNav('onewordstory')" data-item="db" id='onewordstory'><img
+                            src="/assets/onewordstory.png">
+                    </div>
+                    <div onclick="openNav('arraytojson')" data-item="nodejs" id='arraytojson'><img
+                            src="/assets/arraytojson.png"></div>
+                    <div onclick="openNav('website')" data-item="web" id='website'><img src="/assets/website.png"></div>
+                    <div onclick="openNav('arbitrage')" data-item="db" id='arbitrage'><img src="/assets/arbitrage.png">
+                    </div>
+                    <div onclick="openNav('mp4orgifcanvas')" data-item="nodejs" id='mp4orgifcanvas'><img
+                            src="/assets/mp4orgifcanvas.png"></div>
+                    <div onclick="openNav('acolium')" data-item="db" id='acolium'><img src="/assets/acolium.png"></div>
+                    <div onclick="openNav('productfilter')" data-item="nodejs" id='productfilter'><img
+                            src="/assets/productfilter.png"></div>
+                </ul>
+            </div>
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <script src='/static/js/main.js'></script>
+        <script src="/static/js/filter.js"></script>
+        <script>
+
+            let toBeClosed;
+            let savedNode;
+            let index;
+            let filteritem = document.querySelector('#items')
+            let container = document.querySelector('.container');
+            let newParent = document.getElementById('showcase');
+
+            async function populatePre(url) {
+                let response;
+
+                await $.ajax({ url: url, method: 'GET' })
+                    .done(function (_data, _textStatus, jqXHR) {
+                        response = jqXHR.responseText;
+                    });
+
+                return response;
+            }
+
+            function getContent(content) {
+                const title = content.split('title=')[1].split('\n')[0];
+                const description = content.split('description=')[1]
+
+                return { title, description };
+            }
+
+            async function openNav(arg) {
+                if (toBeClosed) closeNav();
+                let x = document.querySelector('.sidenav')
+                let y = x.outerHTML.split('\n').slice(0, 3)
+                y[y.length - 1] = '';
+
+
+                const data = await populatePre(`/data/${arg}.txt`);
+                const content = getContent(data);
+
+                y.push(`<p class="text-gray-400 mt-2" style="font-size: 24px; text-align: center; color:#FF3366;">${content.title}</p>`)
+                y.push('<br>')
+                y.push(`<p style="text-align: center;">${content.description}</p>`)
+
+                x.outerHTML = y.join('\n')
+                document.getElementById("mySidenav").style.width = "250px";
+                document.getElementById("main").style.marginLeft = "250px";
+                document.body.style.backgroundColor = "rgba(6,4,17,0.95)";
+
+                const img = document.getElementById(arg);
+
+                img.style.transform = "scale(2.5)";
+                img.style.transition = "transform 0.25s ease";
+                toBeClosed = arg;
+                savedNode = img
+                container.classList.add('blur');
+                index = [...filteritem.children].indexOf(img);
+
+                newParent.appendChild(img);
+
+
+
+            }
+
+            function closeNav() {
+                document.getElementById("mySidenav").style.width = "0";
+                document.getElementById("main").style.marginLeft = "0";
+                document.body.style.backgroundColor = "rgba(6,4,17)";
+                const img = document.getElementById(toBeClosed);
+                img.style.transform = "scale(1)";
+                img.style.transition = "transform 0.25s ease";
+                toBeClosed = undefined;
+                container.classList.remove('blur');
+
+                filteritem.insertBefore(savedNode, filteritem.children[index])
+                newParent.removeChild(savedNode)
+                savedNode = undefined;
+            }
+        </script>
+    </div>
+</body>
+
+</html>

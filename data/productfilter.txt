@@ -1,5 +1,0 @@
-title=<b style="color:#FF668C;">Product filter</b>
-description=Fetches a website (shop) and <b style="color:#FF668C;">finds brands</b>
-<br>that match the <b style="color:#FF668C;">input</b> and <b style="color:#FF668C;">maps</b>
-<br>them into a .MD (markdown) or
-<br>.TXT (text) file.

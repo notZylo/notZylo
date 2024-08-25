@@ -8,7 +8,7 @@
 I'm a software engineer with over 6 years of experience.
 
 ### Some of my skills include:
-- Programming languages such as Kotlin, Java, Python, JavaScript, and a few others
+- Programming languages such as Kotlin, Java, Python, JavaScript, CSS, Vanilla JS, C, C#, C++
 - Artificial intelligence and machine learning
 - Backend development and engineering
 - Malware creation, threat analysis, reverse engineering, and penetration testing
@@ -19,8 +19,6 @@ I'm a software engineer with over 6 years of experience.
 
 ### Some of my weaker points that I'd like to work on are:
 - Frontend development
-- HTML/CSS/Vanilla JS
-- C/C++
 
 ### Some things I'm looking to work on
 - Minecraft clients/mods

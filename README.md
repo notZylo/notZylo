@@ -14,7 +14,7 @@
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561199031804934/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/jh9SqjVX2d) &nbsp; <a href="mailto:djdj09176@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
   #### 👨🏻‍💻 Languages and Tools <br />
-  [![icons](https://skillicons.dev/icons?i=java,js,ts,cs,go,arduino,sass,next,html,css,figma,mongodb,py,tailwind,tensorflow)](https://skillicons.dev)
+  [![icons](https://skillicons.dev/icons?i=java,js,lua,ts,cs,cpp,c,go,kotlin,html,css,figma,py,git,nodejs)](https://skillicons.dev)
   
   [![Stats](https://github-readme-stats.vercel.app/api?username=notZylo&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=notZylo&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
   

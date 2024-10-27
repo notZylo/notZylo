@@ -16,7 +16,7 @@
   #### 👨🏻‍💻 Languages and Tools <br />
   [![icons](https://skillicons.dev/icons?i=java,js,lua,ts,cs,cpp,c,go,kotlin,html,css,figma,py,git,nodejs)](https://skillicons.dev)
   
-  [![Stats](https://github-readme-stats.vercel.app/api?username=notZylo&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=notZylo&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+  [![Stats](https://github-readme-stats.vercel.app/api?username=notZylo&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=notZylo&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   
   ```
   # ♟︎ Chess.com Ratings Chart #

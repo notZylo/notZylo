@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi, I'm Zylo!</h1>
+<h1>Hi, I'm Kilo!</h1>
 </div>
 
 <!--![Visitors](https://komarev.com/ghpvc/?username=chaarlottte&color=F5A9B8)-->
@@ -8,8 +8,10 @@
 I'm a software engineer with over 12 years of experience.
 
 ### Some of my skills include:
-- Programming languages such as Kotlin, Java, Python, JavaScript, CSS, Vanilla JS, C, C#, C++
+- Programming languages such as Lua, Go, Kotlin, Java, Python, JavaScript, CSS, Vanilla JS, C, C#, C++
 - Artificial intelligence and machine learning
+- Full Fivem Dev; Car dev, Clothing, Custom Scripts, Administration
+- Discord Bot Creation 
 - Backend development and engineering
 - Malware creation, threat analysis, reverse engineering, and penetration testing
 - System Administration
@@ -17,10 +19,5 @@ I'm a software engineer with over 12 years of experience.
 - Mixins (SpongePowered), Gradle, Maven
 - Working with the Discord API
 
-### Some of the weaker points that I'd like to work on are:
-- Frontend development
-
 ### Some things I'm looking to work on
-- Minecraft clients/mods
-- Discord bots/other tools involving Discord
 - Practical usages for AI and Machine Learning

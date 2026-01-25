@@ -1,45 +1,25 @@
-  ### Hello!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
-  
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-  
-  - 🔭 I’m currently a College student in New York
-  - 🌱 I’m currently learning Machine Learning
-  - 💬 Ask me about anything FiveM or Discord Related
-  - 😄 Pronouns: He / Him
-  
-  #### 📫 How to reach me:
-  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561199031804934/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/jh9SqjVX2d) &nbsp; <a href="mailto:djdj09176@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  
-  #### 👨🏻‍💻 Languages and Tools <br />
-  [![icons](https://skillicons.dev/icons?i=java,js,lua,ts,cs,cpp,c,go,kotlin,html,css,figma,py,git,nodejs)](https://skillicons.dev)
-  
-  [![Stats](https://github-readme-stats.vercel.app/api?username=notZylo&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=notZylo&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  
-  ```
-  # ♟︎ Chess.com Ratings Chart #
-  
-  Blitz Rating
- 1492.00  ┤                                   ╭╮╭╮
- 1484.62  ┤                                  ╭╯│││╭─╮   ╭╮
- 1477.25  ┤                                ╭╮│ ╰╯╰╯ ╰╮╭─╯╰╮      ╭╮
- 1469.88  ┤             ╭╮╭╮╭╮╭──╮╭╮      ╭╯╰╯       ││   ╰╮    ╭╯╰─╮
- 1462.50  ┤            ╭╯╰╯╰╯╰╯  ╰╯╰╮ ╭╮  │          ╰╯    ╰╮   │   ╰╮ ╭╮╭╮
- 1455.12  ┼╮           │            ╰─╯╰╮╭╯                 ╰─╮╭╯    ╰╮│╰╯╰╮╭─╮
- 1447.75  ┤╰╮     ╭╮  ╭╯                ╰╯                    ╰╯      ╰╯   ╰╯ ╰╮
- 1440.38  ┤ ╰╮╭╮ ╭╯╰╮╭╯                                                        ╰╮     ╭╮
- 1433.00  ┤  ╰╯╰╮│  ╰╯                                                          ╰╮╭╮╭╮│╰╮
- 1425.62  ┤     ╰╯                                                               ╰╯╰╯╰╯ ╰╮              ╭╮
- 1418.25  ┤                                                                              ╰╮╭╮       ╭╮╭╮││
- 1410.88  ┤                                                                               ╰╯╰╮╭╮╭╮  │╰╯╰╯╰╮
- 1403.50  ┤                                                                                  ╰╯╰╯╰╮╭╯     ╰╮
- 1396.12  ┤                                                                                       ╰╯       │ ╭
- 1388.75  ┤                                                                                                ╰╮│
- 1381.38  ┤                                                                                                 ╰╯
- 1374.00  ┤
+# 👋 Hello, I'm Boris  
 
-Chart last updated - Sun Oct 27 02:05:23 EDT 2024  
-  ```
-  
+_*High School Student*_ New York City 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+[![Linkedin](https://img.shields.io/badge/-Boris-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/boris-rodnevski-7b7938393/)](https://www.linkedin.com/in/boris-rodnevski-7b7938393/)
+![](https://komarev.com/ghpvc/?username=allanim&color=blueviolet&base=12312&abbreviated=)
+
+[![Twitter Follows](https://img.shields.io/twitter/follow/boris_rodnevski?label=Follow)](https://twitter.com/boris_rodnevski)
+[![GitHub Followers](https://img.shields.io/github/followers/Boris-Rodnevski?label=Follow&style=social)](https://github.com/Boris-Rodnevski?tab=followers)
+
+
+### Languages I work with 📚
+![Boris's Stack]([https://aim.vogle.com/stack-lang/github/allanim](https://skillicons.dev/icons?i=java,js,lua,ts,cs,cpp,c,go,kotlin,html,css,figma,py,git,nodejs)](https://skillicons.dev))
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<!-- | Sportify | Apple Music  |
+|:-:|:-:|
+| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21y62jinvnv64qeoy7cchrbka&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) | [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001028.a7c3cb27fe1a4dd59205ca10256ae3cf.1502)](https://github.com/rayriffy/apple-music-github-profile) |
+
+ -->
+---
+
+⭐️ From [Boris](https://github.com/Boris-Rodnevski)

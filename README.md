@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Boris  
+# 👋 Hello, I'm Kilo  
 
-_*High School Student*_ New York City 
+_*College Student*_ New York City 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 [![Linkedin](https://img.shields.io/badge/-Boris-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/boris-rodnevski-7b7938393/)](https://www.linkedin.com/in/boris-rodnevski-7b7938393/)
@@ -22,4 +22,4 @@ _*High School Student*_ New York City
  -->
 ---
 
-⭐️ From [Boris](https://github.com/Boris-Rodnevski)
+⭐️ From [Kilo](https://github.com/notZylo)
